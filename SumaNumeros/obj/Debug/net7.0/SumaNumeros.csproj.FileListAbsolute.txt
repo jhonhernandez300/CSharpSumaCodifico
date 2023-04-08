@@ -1,0 +1,15 @@
+E:\Punto net Core codigo de ejemplo\SumaNumeros\SumaNumeros\bin\Debug\net7.0\SumaNumeros.exe
+E:\Punto net Core codigo de ejemplo\SumaNumeros\SumaNumeros\bin\Debug\net7.0\SumaNumeros.deps.json
+E:\Punto net Core codigo de ejemplo\SumaNumeros\SumaNumeros\bin\Debug\net7.0\SumaNumeros.runtimeconfig.json
+E:\Punto net Core codigo de ejemplo\SumaNumeros\SumaNumeros\bin\Debug\net7.0\SumaNumeros.dll
+E:\Punto net Core codigo de ejemplo\SumaNumeros\SumaNumeros\bin\Debug\net7.0\SumaNumeros.pdb
+E:\Punto net Core codigo de ejemplo\SumaNumeros\SumaNumeros\obj\Debug\net7.0\SumaNumeros.csproj.AssemblyReference.cache
+E:\Punto net Core codigo de ejemplo\SumaNumeros\SumaNumeros\obj\Debug\net7.0\SumaNumeros.GeneratedMSBuildEditorConfig.editorconfig
+E:\Punto net Core codigo de ejemplo\SumaNumeros\SumaNumeros\obj\Debug\net7.0\SumaNumeros.AssemblyInfoInputs.cache
+E:\Punto net Core codigo de ejemplo\SumaNumeros\SumaNumeros\obj\Debug\net7.0\SumaNumeros.AssemblyInfo.cs
+E:\Punto net Core codigo de ejemplo\SumaNumeros\SumaNumeros\obj\Debug\net7.0\SumaNumeros.csproj.CoreCompileInputs.cache
+E:\Punto net Core codigo de ejemplo\SumaNumeros\SumaNumeros\obj\Debug\net7.0\SumaNumeros.dll
+E:\Punto net Core codigo de ejemplo\SumaNumeros\SumaNumeros\obj\Debug\net7.0\refint\SumaNumeros.dll
+E:\Punto net Core codigo de ejemplo\SumaNumeros\SumaNumeros\obj\Debug\net7.0\SumaNumeros.pdb
+E:\Punto net Core codigo de ejemplo\SumaNumeros\SumaNumeros\obj\Debug\net7.0\SumaNumeros.genruntimeconfig.cache
+E:\Punto net Core codigo de ejemplo\SumaNumeros\SumaNumeros\obj\Debug\net7.0\ref\SumaNumeros.dll
